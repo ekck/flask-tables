@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "a3397a9c74cbc7c4b4690ed005d3b91d766b1fefbf53e28335073d9c04486d4b"
+            "sha256": "c3a83937bd2cdb7ba5c1782b51282ee54963d659a443137c0ef1782b76910684"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -23,6 +23,14 @@
             ],
             "markers": "python_version >= '3.6'",
             "version": "==8.0.1"
+        },
+        "faker": {
+            "hashes": [
+                "sha256:156c321953ef13a59261b08f08d514e6877c477490068470d2bea38d1c8a0f98",
+                "sha256:9d4b0f6537ad093db351f0d11cd72aef65c9e5fb0616347329919d9889c19f95"
+            ],
+            "index": "pypi",
+            "version": "==8.9.1"
         },
         "flask": {
             "hashes": [
@@ -151,6 +159,22 @@
             "markers": "python_version >= '3.6'",
             "version": "==2.0.1"
         },
+        "python-dateutil": {
+            "hashes": [
+                "sha256:73ebfe9dbf22e832286dafa60473e4cd239f8592f699aa5adaf10050e6e1823c",
+                "sha256:75bb3f31ea686f1197762692a9ee6a7550b59fc6ca3a1f4b5d7e32fb98e2da2a"
+            ],
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "version": "==2.8.1"
+        },
+        "six": {
+            "hashes": [
+                "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
+                "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
+            ],
+            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
+            "version": "==1.16.0"
+        },
         "sqlalchemy": {
             "hashes": [
                 "sha256:0f6d467b67a7e5048f1408e8ea60d6caa70be5b386d0eebbf1185ab49cb8c7e4",
@@ -186,6 +210,13 @@
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4, 3.5'",
             "version": "==1.4.20"
+        },
+        "text-unidecode": {
+            "hashes": [
+                "sha256:1311f10e8b895935241623731c2ba64f4c455287888b18189350b67134a822e8",
+                "sha256:bad6603bb14d279193107714b288be206cac565dfa49aa5b105294dd5c4aab93"
+            ],
+            "version": "==1.3"
         },
         "werkzeug": {
             "hashes": [
